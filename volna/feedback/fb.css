@@ -1,0 +1,19 @@
+*{
+    background-color: rgba(22,21,26,255);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    color: rgba(37,165,106,255);
+}
+.banner
+{color: rgba(37,165,106,255);}
+#icon{
+    width: 20px;
+    height: 20px;
+    color: rgba(37,165,106,255);
+}
+#dp{
+    width: 30px;
+    height: 30px;
+    
+}
